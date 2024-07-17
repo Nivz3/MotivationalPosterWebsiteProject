@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: libre;
+    color: white;
+    text-transform: uppercase;
+}
+
+p {
+    color: white;
+}
+
+img {
+    border: solid white;
+    border-width: 5px;
+    width: 100%;
+
+}
+
+.poster {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
